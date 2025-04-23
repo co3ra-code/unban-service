@@ -17,6 +17,8 @@ Discord
 
 And other sites/services not available in RuNet.
 
+!!! except *META
+
 # Spreading
 We give full permission to distribute this program to anyone who wants it, as the author you can indicate
 
