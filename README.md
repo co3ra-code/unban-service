@@ -1,4 +1,3 @@
-# unban-service
 # unban-service v1.0
 Utility for Windows allows unimpeded access to all resources Launch via UNBAN-SERVICE.cmd
 
